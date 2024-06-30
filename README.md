@@ -1,4 +1,4 @@
-# **Deep Learning Project**
+# **Deep Learning Project - Making a CNN**
 
 # **Mammal Species Image Classification**
 
